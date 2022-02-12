@@ -49,7 +49,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awallace3&hi
 <p id="socialIcons" align="center">
     <a href="mailto:austinwallace196@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/austinwallace196@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/Awallace3" alt="LinkedIn">
+    <a href="https://linkedin.com/in/austin-wallace-42a5b3199" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-Awallace3-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://instagram.com/austin_wallace1024" alt="Instagram">
         <img src="https://img.shields.io/badge/-austin_wallace1024-3F729B?style=flat-square&logo=instagram&logoColor=white" /></a>
