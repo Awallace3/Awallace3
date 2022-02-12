@@ -27,11 +27,10 @@
 
 
 </div>
----
 
-- 🔭 I am an **Undergraduate Researcher** in the Computational Astrochemistry Research Group at Ole Miss
+- 🔭 **Undergraduate Researcher** in the Computational Astrochemistry Research Group at Ole Miss
 - 💻 **Neovim** 
-- 🌱 I am currently learning Rust and Flutter 
+- 🌱 Currently learning Rust and Flutter 
 
 
 <div align="center">
