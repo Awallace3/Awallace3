@@ -44,7 +44,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awallace3&hi
 <div/>
 -->
 
-## Reach Me
+## Contact Me
 
 <p id="socialIcons" align="center">
     <a href="mailto:austinwallace196@gmail.com">
