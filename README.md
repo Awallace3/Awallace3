@@ -28,9 +28,9 @@
 
 </div>
 
-- 🔭 **Undergraduate Researcher** in the Computational Astrochemistry Research Group at Ole Miss
+- 🔭 **Graduate Researcher** at Georgia Tech
 - 💻 **Neovim** 
-- 🌱 Currently learning Rust and Flutter 
+- 🌱 Currently learning Lua and Fortran 
 
 
 <div align="center">
