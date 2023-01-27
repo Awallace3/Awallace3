@@ -27,7 +27,7 @@
 
 </div>
 
-- 🔭 **Graduate Researcher** at Georgia Tech
+- 🔭 **Graduate Student Researcher** at Georgia Tech
 - 💻 **Neovim** 
 - 🌱 Currently learning Lua and Fortran 
 
