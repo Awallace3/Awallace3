@@ -15,7 +15,6 @@
 [![markdown][md-shield]][md-url]
 [![bash][bash-shield]][bash-url]
 [![jupyter][jupyter-shield]][jupyter-url]
-[![flutter][flutter-shield]][flutter-url]
 [![yarn][yarn-shield]][yarn-url]
 [![react][react-shield]][react-url]
 [![redux][redux-shield]][redux-url]
