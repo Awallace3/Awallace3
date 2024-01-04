@@ -29,7 +29,7 @@
 
 - 🔭 **Graduate Student Researcher** at Georgia Tech
 - 💻 **Neovim** 
-- 🌱 Currently learning Lua and Fortran
+- 🌱 Currently learning more C++ for Psi4 development
 
 <!---
 <div align="center">
