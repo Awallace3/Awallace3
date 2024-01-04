@@ -37,8 +37,8 @@
 - Visualizes electronic excited state energies for thousands of Vis-NIR organic
   dyes for dye sensitized solar cells
   ([DOI:10.1039/D3DD00023K](https://doi.org/10.1039/D3DD00023K))
-- Provides a browser interface for 0nset, a tool for computing the $\lamba$
-  onset value for dyes
+- Provides a browser interface for 0nset, a tool for computing the λ onset
+  value for dyes
   ([DOI:10.1016/j.jqsrt.2021.107544](https://doi.org/10.1016/j.jqsrt.2021.107544))
 
 <!---
