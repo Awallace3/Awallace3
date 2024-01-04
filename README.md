@@ -24,9 +24,19 @@
 [![flask][flask-shield]][flask-url]
 </div>
 
-- 🔭 **Graduate Student Researcher** at Georgia Tech
-- 💻 **Neovim** 
+- 🔭 **Graduate Student Researcher** at Georgia Tech in the Sherrill Group
 - 🌱 Currently learning more C++ for Psi4 development
+- 💻 **Neovim** [nvim config](https://github.com/Awallace3/nvim_lazy)
+
+# Research Interests
+- Computer-based drug design
+- Symmetry Adapted Perturbation Theory (SAPT) for understanding drug design
+- Cheaper dispersion methods
+- Improved docking scoring functions
+- Machine Learned Force Field (MLFF) development
+- Highly distributed parallelization for high-throughput dataset generation
+  [hrcl_jobs](https://github.com/Awallace3/hierarchical_python_jobs)
+- Astrochemistry
 
 # Websites
 ## DyesDB 
@@ -46,11 +56,11 @@
 - Deployed and maintained website on a Linode server
 
 
-<div align="center">
-<img height="137px"
-src="https://github-readme-stats.vercel.app/api?username=Awallace3&include_all_commits=true&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight&hide_rank=true"
-/>
-<div/>
+<!-- <div align="center"> -->
+<!-- <img height="137px" -->
+<!-- src="https://github-readme-stats.vercel.app/api?username=Awallace3&include_all_commits=true&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight&hide_rank=true" -->
+<!-- /> -->
+<!-- <div/> -->
 <!--   <img height="137px" -->
 <!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awallace3&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=tokyonight&count_private=true" -->
 <!-- /> -->
