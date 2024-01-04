@@ -52,7 +52,7 @@
 - Collaborated with [mvee18](https://github.com/mvee18/mvee18) to create
   [r410berry.com](https://r410berry.com/) for the Computational Astrochemistry
   Research Group @ Ole Miss 
-- Wrote the frontend with `React.js` 
+- Wrote the frontend in `React.js` 
 - Deployed and maintained website on a Linode server
 
 
