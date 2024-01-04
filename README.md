@@ -26,7 +26,7 @@
 
 - 🔭 **Graduate Student Researcher** at Georgia Tech in the Sherrill Group
 - 🌱 Currently learning more C++ for Psi4 development
-- 💻 **Neovim** [nvim config](https://github.com/Awallace3/nvim_lazy)
+- 💻 **Neovim** ([nvim config](https://github.com/Awallace3/nvim_lazy))
 
 # Research Interests
 - Computer-based drug design
@@ -35,7 +35,7 @@
 - Improved docking scoring functions
 - Machine Learned Force Field (MLFF) development
 - Highly distributed parallelization for high-throughput dataset generation
-  [hrcl_jobs](https://github.com/Awallace3/hierarchical_python_jobs)
+  ([hrcl_jobs](https://github.com/Awallace3/hierarchical_python_jobs))
 - Astrochemistry
 
 # Websites
