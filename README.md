@@ -22,9 +22,6 @@
 [![expo][expo-shield]][expo-url]
 [![node][node-shield]][node-url]
 [![flask][flask-shield]][flask-url]
-
-
-
 </div>
 
 - 🔭 **Graduate Student Researcher** at Georgia Tech
@@ -41,7 +38,14 @@
   value for dyes
   ([DOI:10.1016/j.jqsrt.2021.107544](https://doi.org/10.1016/j.jqsrt.2021.107544))
 
-<!---
+## r410berry
+- Collaborated with [mvee18](https://github.com/mvee18/mvee18) to create
+  [r410berry.com](https://r410berry.com/) for the Computational Astrochemistry
+  Research Group @ Ole Miss 
+- Wrote the frontend with `React.js` 
+- Deployed and maintained website on a Linode server
+
+
 <div align="center">
   <img height="137px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awallace3&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=tokyonight&count_private=true"
