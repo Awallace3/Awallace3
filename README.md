@@ -31,7 +31,7 @@
 # Research Interests
 - Computer-based drug design
 - Symmetry Adapted Perturbation Theory (SAPT) for understanding drug design
-- Cheaper dispersion methods
+- Cheaper dispersion methods ([d4_dimers](https://github.com/Awallace3/d4_dimers))
 - Improved docking scoring functions
 - Machine Learned Force Field (MLFF) development
 - Highly distributed parallelization for high-throughput dataset generation
