@@ -55,8 +55,18 @@
 - Wrote the frontend in `React.js` 
 - Deployed and maintained website on a Linode server
 
-# Containers
+# Example Repositories
+## Python
+- [hrcl_jobs](https://github.com/awallace3/hrcl_jobs) provides functionality to distribute jobs on compute clusters
+- Provides basic functionalities for interacting with SQL/PostgreSQL databases
+- Example jobspecs for psi4, AutoDock Vina, AP-Net2, and OpenMM
+<!-- ## CPP -->
+## PyBind11 (Python+CPP)
+-- [d4_dimers](https://github.com/awallace3/d4_dimers) has python3 frontend for calling CPP submodule [dispersion](https://github.com/Awallace3/dispersion/tree/c7dcfb3995afadcb4afdc1ed7d4506a0951f269b) to accelerate -D4 damping function parameter fitting by over 400x.
+
+<!-- # Containers 
 - [dockerhub repositories](https://hub.docker.com/repositories/awallace43)
+-->
 
 <!-- <div align="center"> -->
 <!-- <img height="137px" -->
