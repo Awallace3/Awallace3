@@ -62,7 +62,7 @@
 - Example jobspecs for psi4, AutoDock Vina, AP-Net2, and OpenMM
 <!-- ## CPP -->
 ## PyBind11 (Python+CPP)
--- [d4_dimers](https://github.com/awallace3/d4_dimers) has python3 frontend for calling CPP submodule [dispersion](https://github.com/Awallace3/dispersion/tree/c7dcfb3995afadcb4afdc1ed7d4506a0951f269b) to accelerate -D4 damping function parameter fitting by over 400x.
+- [d4_dimers](https://github.com/awallace3/d4_dimers) has python3 frontend for calling CPP submodule [dispersion](https://github.com/Awallace3/dispersion/tree/c7dcfb3995afadcb4afdc1ed7d4506a0951f269b) to accelerate -D4 damping function parameter fitting by over 400x.
 
 <!-- # Containers 
 - [dockerhub repositories](https://hub.docker.com/repositories/awallace43)
