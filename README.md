@@ -22,6 +22,8 @@
 [![expo][expo-shield]][expo-url]
 [![node][node-shield]][node-url]
 [![flask][flask-shield]][flask-url]
+[![sql][sql-shield]][sql-url]
+[![postgresql][postgresql-shield]][postgresql-url]
 </div>
 
 - 🔭 **Graduate Student Researcher** at Georgia Tech in the Sherrill Group
@@ -39,6 +41,14 @@
 - Astrochemistry
 
 # Websites
+## vergil.chemistry.gatech.edu (Sherrill Group Website)
+- [vergil.chemistry.gatech.edu](https://vergil.chemistry.gatech.edu/)
+- Collaborated with [Caroline Glick](https://github.com/carolinesargent), [C.
+  David Sherrill](https://github.com/CDSherrill), and Sherrill group to create
+  website using `Flask`, `HTML/CSS`, and `SQL`
+- Created users and blog functionality for members to update website news
+- Deployed and maintain website
+
 ## DyesDB 
 - [dyesdb.com](https://dyesdb.com/)
 - Visualizes electronic excited state energies for thousands of Vis-NIR organic
@@ -47,6 +57,7 @@
 - Provides a browser interface for 0nset, a tool for computing the λ onset
   value for dyes
   ([DOI:10.1016/j.jqsrt.2021.107544](https://doi.org/10.1016/j.jqsrt.2021.107544))
+- Wrote `React.js` frontend and `Flask` backend
 
 ## r410berry
 - Collaborated with [mvee18](https://github.com/mvee18/mvee18) to create
@@ -192,7 +203,10 @@ Here are some ideas to get you started:
 [flask-url]: https://flask.palletsprojects.com
 [expo-shield]: https://img.shields.io/badge/expo-1C1E24?style=flat-sqaure&logo=expo&logoColor=#D04A37 
 [expo-url]: https://expo.dev
-
+[sql-shield]: https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white
+[sql-url]: https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16
+[postgresql-shield]: https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white
+[postgresql-url]: https://www.postgresql.org/
 
 
 
@@ -211,5 +225,4 @@ Here are some ideas to get you started:
 
 <!-- https://paypal.me/mikyll98 -->
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
-
 
