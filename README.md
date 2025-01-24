@@ -27,8 +27,10 @@
 </div>
 
 - 🔭 **Graduate Student Researcher** at Georgia Tech in the Sherrill Group
-- 🌱 Currently learning more C++ for Psi4 development
 - 💻 **Neovim** ([nvim config](https://github.com/Awallace3/nvim_lazy))
+- 🌱 Actively Learning more about: 
+  - **PyTorch**
+  - **C++**
 
 # Research Interests
 - Computer-based drug design
