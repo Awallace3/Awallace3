@@ -48,6 +48,7 @@
   David Sherrill](https://github.com/CDSherrill), and Sherrill group to create
   website using `Flask`, `HTML/CSS`, and `SQL`
 - Created users and blog functionality for members to update website news
+- - Developed internal group paper/citation database synchronizing SQL/bibtex
 - Deployed and maintain website
 
 ## DyesDB 
