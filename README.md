@@ -33,14 +33,13 @@
   - **C++**
 
 # Research Interests
-- Computer-based drug design
 - Symmetry Adapted Perturbation Theory (SAPT) for understanding drug design
-- Cheaper dispersion methods ([d4_dimers](https://github.com/Awallace3/d4_dimers))
+- Inexpensive dispersion methods for accurate noncovalent interaction energies ([d4_dimers](https://github.com/Awallace3/d4_dimers))
 - Improved docking scoring functions
 - Machine Learned Force Field (MLFF) development
 - Highly distributed parallelization for high-throughput dataset generation
   ([hrcl_jobs](https://github.com/Awallace3/hierarchical_python_jobs))
-- Astrochemistry
+- AI tools and agents ([OpenAI Computational Chemistry Assistant](https://chatgpt.com/g/g-67d6215e7d5c81918645f4feb022890a-quantum-chemistry-assistant))
 
 # Websites
 ## vergil.chemistry.gatech.edu (Sherrill Group Website)
