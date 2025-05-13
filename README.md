@@ -80,7 +80,7 @@ interfacing through python:
 - Wrote the frontend in `React.js` 
 - Deployed and maintained website on a Linode server
 
-# Example Repositories
+# Example Code Repositories
 ## Python
 - [QCMLForge](https://github.com/awallace3/qcmlforge) is a package for
   training and inference of atomic and dimer machine learning models related to
