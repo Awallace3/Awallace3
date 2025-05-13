@@ -41,6 +41,18 @@
   ([hrcl_jobs](https://github.com/Awallace3/hierarchical_python_jobs))
 - AI tools and agents ([OpenAI Computational Chemistry Assistant](https://chatgpt.com/g/g-67d6215e7d5c81918645f4feb022890a-quantum-chemistry-assistant))
 
+# Tutorials
+## QCArchive+Psi4+QCMLForge
+- [QCArchive+Psi4+QCMLForge+Cybershuttle](https://github.com/Awallace3/psi4_interaction_energy_cybershuttle/tree/main) 
+- Demonstrates how to setup a QCArchive/QCFractal database/server for
+interfacing through python:
+  - Executes computations on Cybershuttle HPC resources
+  - Runs Psi4 SinglePoint energies and QCManyBody calculations as datasets
+  - Visualize benchmarking results
+  - Trains AP-Net2 related models (transfer learning and $\Delta$ learning) using
+    computed datasets through QCMLForge.
+
+
 # Websites
 ## vergil.chemistry.gatech.edu (Sherrill Group Website)
 - [vergil.chemistry.gatech.edu](https://vergil.chemistry.gatech.edu/)
@@ -70,6 +82,9 @@
 
 # Example Repositories
 ## Python
+- [QCMLForge](https://github.com/awallace3/qcmlforge) is a package for
+  training and inference of atomic and dimer machine learning models related to
+  AP-Net models.
 - [hrcl_jobs](https://github.com/awallace3/hrcl_jobs) provides functionality to distribute jobs on compute clusters
 - Provides basic functionalities for interacting with SQL/PostgreSQL databases
 - Example jobspecs for psi4, AutoDock Vina, AP-Net2, and OpenMM
