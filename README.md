@@ -42,7 +42,7 @@
 - AI tools and agents ([OpenAI Computational Chemistry Assistant](https://chatgpt.com/g/g-67d6215e7d5c81918645f4feb022890a-quantum-chemistry-assistant))
 
 # Tutorials
-## QCArchive+Psi4+QCMLForge
+## QCArchive+Psi4+QCMLForge+Cybershuttle
 - [QCArchive+Psi4+QCMLForge+Cybershuttle](https://github.com/Awallace3/psi4_interaction_energy_cybershuttle/tree/main) 
 - Demonstrates how to setup a QCArchive/QCFractal database/server for
 interfacing through python:
@@ -51,6 +51,13 @@ interfacing through python:
   - Visualize benchmarking results
   - Trains AP-Net2 related models (transfer learning and $\Delta$ learning) using
     computed datasets through QCMLForge.
+
+## Gemini-cli/Opencode
+- [Gemini-cli/Opencode](https://github.com/Awallace3/Agents4Science) 
+- Demonstrates how to use agentic models workflows for scientific tasks:
+  - Visualize SI data and extend a PES scan through prompting
+  - Demonstrate test-driven development example for implementing an equation from a PDF
+  - Construct an MCP server with FastMCP for running quantum calculations
 
 
 # Websites
